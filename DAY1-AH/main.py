@@ -1,4 +1,4 @@
-# 12-29-2023 Alexander: Udemy Python / Time to complete= 12:30pm - 
+# 12-29-2023 Alexander: Udemy Python / Time to complete= 12:30pm - 2pm
 # Overview: printing, comments, debug, string manipulation, variables 
 # Joined Auditorium interactive courses
 
