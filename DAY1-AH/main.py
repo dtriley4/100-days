@@ -34,7 +34,7 @@ print("b: " + b)
 #Executables:
 
 #1. Create a greeting
-#2. Ask user for city their from
+#2. Ask user for city they're from
 #3. Ask user for pet name
 #4. Combine city name and pet name
 #5. Curser starts on new line
