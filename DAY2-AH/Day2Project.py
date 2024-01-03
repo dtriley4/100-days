@@ -1,4 +1,4 @@
-# 1-1-2024 Alexander: Udemy Python / Time to complete= 2:30pm - 4pm
+# 1-1-2024 Alexander: Udemy Python / Time to complete project <= 30 mins
 # Overview: data types, numbers, operations, type conversion, f-strings
 
 # DAY 2 Project: Tip Calculator
