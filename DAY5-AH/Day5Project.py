@@ -92,12 +92,12 @@ def generate_password(num_letters, num_symbols, num_numbers):
     password.extend(random.sample(numbers, num_numbers))
     password.extend(random.sample(symbols, num_symbols))
 
-#combine and shuffle the three types of lists
+#combine and shuffle the three types of inputs
     random.shuffle(password)
     
-#convert to string to display to user.
+#convert to string
 #the map function applies the string to each element in the empty pw list
-#the join method that concatenates the elements to a sigle, readable string
+#the join method concatenates the elements to a sigle, readable string
     password_string = ''.join(map(str, password))
     return password_string
     
