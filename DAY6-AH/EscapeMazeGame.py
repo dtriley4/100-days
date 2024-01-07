@@ -1,4 +1,4 @@
-# 1-7-2024 Alexander: Udemy Python / Time to complete project == 3:30pm - 
+# 1-7-2024 Alexander: Udemy Python / Time to complete project == 30 mins
 # Overview: Functions, Code Blocks, While Loops
 
 '''
