@@ -1,4 +1,4 @@
-# 1-8-2024 Alexander: Udemy Python / Time to complete project == 6:30pm - (break)
+# 1-8-2024 Alexander: Udemy Python / Time to complete project == 1 hour
 # Overview: Hangman Project
 
 #Checklist:
