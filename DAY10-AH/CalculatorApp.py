@@ -78,7 +78,7 @@ def format_name(f_name, l_name):
 #1. Ask and ask user for first integer
 #2 Show and ask user to pick an operator
 #3 Perform and show operation
-#4 ask to continue calculating with result or start a new calculation
+
 
 #define operator funnctions
 def add(x, y):
