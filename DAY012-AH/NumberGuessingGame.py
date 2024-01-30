@@ -1,4 +1,4 @@
-# 1-27-2024 Alexander: Udemy Python / Time to complete project == 
+# 1-27-2024 Alexander: Udemy Python / Time to complete project == 30 mins
 # Overview: Namespaces: Local vs Global Scopes
 
 
