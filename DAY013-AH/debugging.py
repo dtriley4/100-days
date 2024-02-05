@@ -27,11 +27,11 @@
 
 
 # 3. Play Computer
-year = int(input("What's your year of birth?"))
-if year > 1980 and year < 1994:
-  print("You are a millenial.")
-elif year > 1994:
-  print("You are a Gen Z.")
+# year = int(input("What's your year of birth?"))
+# if year > 1980 and year < 1994:
+#   print("You are a millenial.")
+# elif year > 1994:
+#   print("You are a Gen Z.")
 # The bug is that if your year is one of the years that binds to the print statment parameters, nothing will happen.
 # This is due to the improper use of operators, and the if/elif statement should be written to inlcude the cut-off years as input options.
 # Solution would be to use >= in the elif parameter
