@@ -1,4 +1,4 @@
-# 2-5-2024 Alexander: Udemy Python / Time to complete project == 
+# 2-5-2024 Alexander: Udemy Python / Time to complete project == 1 hr
 # Overview: Coffee Machine Project
 
 # Create a virtual coffee machine program 
