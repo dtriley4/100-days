@@ -1,4 +1,4 @@
-# 2-6-2024 Alexander: Udemy Python / Time to complete project == 
+# 2-6-2024 Alexander: Udemy Python / Time to complete project == 1 hr
 # Overview: OOP (Object Oriented Programming)
 
 # So far we have done Procedural programmming: which is programming where procedures or functions are in place to execute particular things.
